@@ -1,8 +1,9 @@
 //
 //  FRadioPlayer+Observation.swift
-//  Pods
+//  FRadioPlayer
 //
-//  Created by Fethi El Hassasna on 2021-10-16.
+//  Created by TuneURL.
+//  Copyright © 2025 TuneURL. All rights reserved.
 //
 
 import Foundation

@@ -2,8 +2,8 @@
 //  FRadioPlayer.swift
 //  FRadioPlayer
 //
-//  Created by Fethi El Hassasna on 2017-11-11.
-//  Copyright © 2017 Fethi El Hassasna (@fethica). All rights reserved.
+//  Created by TuneURL.
+//  Copyright © 2025 TuneURL. All rights reserved.
 //
 
 import AVFoundation
